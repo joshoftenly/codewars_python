@@ -1,1 +1,1 @@
-This is the challenges from codewars. In which case there are no comments in the code it is because these were done as I was following various tutorials. Hopefully they will get better as I go along. 
+These are the challenges from codewars. In which case there are no comments in the code it is because these were done as I was following various tutorials. Hopefully they will get better as I go along.
